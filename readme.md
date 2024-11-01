@@ -18,7 +18,7 @@ Jogo de jokenpo criado para explicar e praticar conceitos de lógica de programa
 
 ## 📦 Tecnologias usadas
 - HTML
-- SASS
+- CSS
 - JavaScript
 
 
